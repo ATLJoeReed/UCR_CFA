@@ -1,0 +1,13 @@
+{
+  "field_names": ["agency", "address", "location"],
+  "field_definitions" : [
+      {"field" : "agency", "type" : "Name"},
+      {"field" : "address", "type" : "String"},
+      {"field" : "location", "type" : "LatLong", "has missing" : true}
+    ],
+  "output_file": "output.csv",
+  "skip_training": false,
+  "training_file": "training.json",
+  "sample_size": 10000,
+  "recall_weight": 2
+}

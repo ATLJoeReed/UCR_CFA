@@ -1,4 +1,4 @@
-id,department,address_type,input_address,fixed_address,address,po_box,city,state,zip_code,geocode_results,latitude,longitude,google_formatted_address
+id,agency,address_type,input_address,fixed_address,address,po_box,city,state,zip_code,geocode_results,latitude,longitude,google_address
 0,Adair County Sheriff's Office,Street Address,"306 E Iowa StPO Box 206 Greenfield, IA 50849","306 E Iowa St PO Box 206 Greenfield, IA 50849",306 E Iowa St,PO Box 206,Greenfield,IA,50849,RANGE_INTERPOLATED,41.3051174,-94.4577463,"306 E Iowa St, Greenfield, IA 50849, USA"
 1,Adair Police Department,PO Box,"P.O. Box 66  Adair, IA 50002","P.O. Box 66 Adair, IA 50002",,P.O. Box 66,Adair,IA,50002,APPROXIMATE,41.50043,-94.6433504,"Adair, IA 50002, USA"
 2,Adams County Sheriff's Office,Street Address,"901 Davis AvePO Box 346 Corning, IA 50841","901 Davis Ave PO Box 346 Corning, IA 50841",901 Davis Ave,PO Box 346,Corning,IA,50841,RANGE_INTERPOLATED,40.990944,-94.73445939999999,"901 Davis Ave, Corning, IA 50841, USA"
